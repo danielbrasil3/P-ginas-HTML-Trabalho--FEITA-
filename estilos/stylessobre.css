@@ -10,7 +10,7 @@
 body{
     width: 100vw;
     height: 100vh;
-	background: url(./images/fundosobre.png) center/cover fixed no-repeat;
+	background: url(../images/fundosobre.png) center/cover fixed no-repeat;
     font-family: 'Poppins', sans-serif;
     font-size: 0.8rem;
     user-select: none;
